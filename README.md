@@ -5,7 +5,6 @@ El año 2024 egrese de la carrera de Ingeniería en Sistemas de la Universidad M
 Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de experiencia.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/ivan-f-calle/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
     <a href = "mailto:ivanflorescalle128@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@ivanflorescalle128"  /></a>
 </p>
 
