@@ -4,10 +4,6 @@
 El año 2024 egrese de la carrera de Ingeniería en Sistemas de la Universidad Mayor de San Simón (UMSS).
 Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de experiencia.
 
-<p align="left">
-    <a href = "mailto:ivanflorescalle128@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@ivanflorescalle128"  /></a>
-</p>
-
 <br />
 
 - 😃 Disfruto mucho del mundo de la programación y todo aquello relacionado a la tecnología.
