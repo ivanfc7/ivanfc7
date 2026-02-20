@@ -52,7 +52,7 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
 
 ## 📊 Estadísticas generales
 <div style="display: flex; gap: 15px; flex-direction: column;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanFC29&show_icons=true&count_private=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFC29&layout=compact&count_private=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanfc7&show_icons=true&count_private=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanfc7&layout=compact&count_private=true&theme=tokyonight" />
 </div
 
