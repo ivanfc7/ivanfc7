@@ -9,6 +9,12 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
 - 😃 Disfruto mucho del mundo de la programación y todo aquello relacionado a la tecnología.
 - 👩‍💻 Enfocado principalmente en el desarrollo web. 
 - 📚 Actualmente me encuentro desarrollando mi proyeto de grado universitario con React y Django.
+- 📝 Mi proximo paso es aprender a desarrollar con las tecnlogias de:
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,astro,docker,supabase&perline=12" />
+  </a>
+</p>
 
 ### Lenguajes de Programación
 <p align="left">
@@ -20,14 +26,14 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
 ### Librerías Frontend y maquetación
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,react,bootstrap,tailwind&perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,react,bootstrap,tailwind,angular&perline=12" />
   </a>
 </p>
 
 ### Frameworks Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,laravel,spring&perline=12" />
+    <img src="https://skillicons.dev/icons?i=django,laravel,spring,nodejs&perline=12" />
   </a>
 </p>
 
