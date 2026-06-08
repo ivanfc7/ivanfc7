@@ -48,10 +48,3 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
         <img src="https://img.shields.io/badge/Ver%20Portafolio-white?style=for-the-badge&logo=brave" />
     </a> </p>-->
 
-
-## 📊 Estadísticas generales
-<div style="display: flex; gap: 15px; flex-direction: column;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanfc7&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanfc7&layout=compact&count_private=true&theme=tokyonight&cache_seconds=1800" />
-</div>
-
