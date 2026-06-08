@@ -1,7 +1,7 @@
 ## Hola, Soy Ivan 👋
 
 
-El año 2024 egrese de la carrera de Ingeniería en Sistemas de la Universidad Mayor de San Simón (UMSS).
+El diciembre del año 2024 egrese de la carrera de Ingeniería en Sistemas de la Universidad Mayor de San Simón (UMSS).
 Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de experiencia.
 
 <br />
@@ -15,6 +15,8 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
     <img src="https://skillicons.dev/icons?i=nextjs,astro,docker,supabase&perline=12" />
   </a>
 </p>
+
+## Habilidades conocidas
 
 ### Lenguajes de Programación
 <p align="left">
@@ -37,7 +39,7 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
   </a>
 </p>
 
-### Tecnologías conocidas
+### Tecnologías para el desarrollo
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vite,mysql,postgres,git,github,postman,vscode,bash,linux&perline=12" />
