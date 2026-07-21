@@ -10,9 +10,9 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
 - 👩‍💻 Enfocado principalmente en el desarrollo web. 
 - 📚 Actualmente me encuentro desarrollando mi proyeto de grado universitario con React y Django.
 - 📝 Mi proximo paso es aprender a desarrollar con las tecnlogias de:
-  <p align="left">
+  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,astro,docker,supabase&perline=12" />
+    <img src="https://skillicons.dev/icons?i=nextjs,astro,docker,supabase,nestjs&perline=12" />
   </a>
 </p>
 
@@ -28,21 +28,25 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
 ### Librerías Frontend y maquetación
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,react,bootstrap,tailwind,angular&perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,react,bootstrap,tailwind&perline=12" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=angular&perline=12" />
   </a>
 </p>
 
 ### Frameworks Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,laravel,spring,nodejs&perline=12" />
+    <img src="https://skillicons.dev/icons?i=django,laravel,spring,nodejs,express&perline=12" />
   </a>
 </p>
 
 ### Tecnologías para el desarrollo
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,mysql,postgres,git,github,postman,vscode,bash,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vite,mysql,postgres,git,github&perline=12" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=postman,vscode,bash,linux&perline=12" />
   </a>
 </p>
 
