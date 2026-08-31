@@ -8,13 +8,18 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
 
 - 😃 Disfruto mucho del mundo de la programación y todo aquello relacionado a la tecnología.
 - 👩‍💻 Enfocado principalmente en el desarrollo web. 
-- 📚 Actualmente me encuentro desarrollando mi proyeto de grado universitario con React y Django.
+- 📚 Actualmente me encuentro desarrollando mi proyeto de grado universitario con React y Django. Además de crear proyectos con las tecnologías que voy aprendiendo, en especial nest js, el cual es el framework en que voy enfocando mi aprendizaje.
+ <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nestjs&perline=12" />
+    </a>
+  </p>
 - 📝 Mi proximo paso es aprender a desarrollar con las tecnlogias de:
   <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,docker,supabase,tauri,mongo&perline=12" />
-  </a>
-</p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nextjs,docker,supabase,tauri,mongo&perline=12" />
+    </a>
+  </p>
 
 ## Habilidades conocidas
 
@@ -28,9 +33,9 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
 ### Librerías Frontend y maquetación
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,react,bootstrap,tailwind,astro&perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,react,bootstrap,tailwind&perline=12" />
     <br />
-    <img src="https://skillicons.dev/icons?i=angular&perline=12" />
+    <img src="https://skillicons.dev/icons?i=angular,astro&perline=12" />
   </a>
 </p>
 
