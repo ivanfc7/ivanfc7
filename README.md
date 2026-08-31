@@ -9,7 +9,7 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
 - 😃 Disfruto mucho del mundo de la programación y todo aquello relacionado a la tecnología.
 - 👩‍💻 Enfocado principalmente en el desarrollo web. 
 - 📚 Actualmente me encuentro desarrollando mi proyeto de grado universitario con React y Django. Además de crear proyectos con las tecnologías que voy aprendiendo, en especial nest js, el cual es el framework en que voy enfocando mi aprendizaje.
- <p align="center">
+  <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nestjs&perline=12" />
     </a>
@@ -51,7 +51,7 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vite,mysql,postgres,git,github&perline=12" />
     <br />
-    <img src="https://skillicons.dev/icons?i=postman,vscode,bash,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=postman,vscode,bash,mint&perline=12" />
   </a>
 </p>
 
