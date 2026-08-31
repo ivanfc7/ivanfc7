@@ -12,7 +12,7 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
 - 📝 Mi proximo paso es aprender a desarrollar con las tecnlogias de:
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,astro,docker,supabase,nestjs&perline=12" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,docker,supabase,tauri,mongo&perline=12" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
 ### Librerías Frontend y maquetación
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,react,bootstrap,tailwind&perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,react,bootstrap,tailwind,astro&perline=12" />
     <br />
     <img src="https://skillicons.dev/icons?i=angular&perline=12" />
   </a>
