@@ -28,9 +28,7 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
 ### Librerías Frontend y maquetación
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,react,bootstrap,tailwind&perline=12" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=angular,astro&perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,react,bootstrap,tailwind,angular,astro&perline=12" />   
   </a>
 </p>
 
@@ -44,9 +42,7 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
 ### Tecnologías para el desarrollo
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,mysql,postgres,git,github&perline=12" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=postman,vscode,bash,mint&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vite,mysql,postgres,git,github,postman,vscode,bash,mint&perline=12" />
   </a>
 </p>
 
