@@ -8,16 +8,11 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
 
 - 😃 Disfruto mucho del mundo de la programación y todo aquello relacionado a la tecnología.
 - 👩‍💻 Enfocado principalmente en el desarrollo web. 
-- 📚 Actualmente me encuentro desarrollando mi proyeto de grado universitario con React y Django. Además de crear proyectos con las tecnologías que voy aprendiendo, en especial nest js, el cual es el framework en que voy enfocando mi aprendizaje.
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nestjs&perline=12" />
-    </a>
-  </p>
+- 📚 Actualmente me encuentro desarrollando mi proyeto de grado universitario con React y Django. Además de crear proyectos con las tecnologías que voy aprendiendo.
 - 📝 Mi proximo paso es aprender a desarrollar con las tecnlogias de:
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nextjs,docker,supabase,tauri,mongo&perline=12" />
+      <img src="https://skillicons.dev/icons?i=nestjs,nextjs,docker,supabase,tauri,mongo&perline=12" />
     </a>
   </p>
 
@@ -55,13 +50,13 @@ Realizo mi modalidad de titulación en medio del aprendizaje y la busqueda de ex
   </a>
 </p>
 
-<!-- 
 ## 🌐 Mi Portafolio Web
 
 ¡Te invito a visitar mi portafolio donde muestro algunos de mis proyectos!
 
 <p align="center">
-    <a href="https://ivanfc29.github.io/portafolio/" target="_blank">
+    <a href="https://ivanflorescalle.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Ver%20Portafolio-white?style=for-the-badge&logo=brave" />
-    </a> </p>-->
+    </a> 
+</p>
 
